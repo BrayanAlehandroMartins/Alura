@@ -1,0 +1,8 @@
+.Menu{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+}
+.Menu :hover{
+    background-color: lightslategray;
+}
